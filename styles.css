@@ -17,7 +17,7 @@ section {
     font: verdana;
 }
 
-h3.class {
+h3.beltt {
     font-style: italic;
     margin: 0 auto 0 auto;
 	font: verdana;
@@ -26,6 +26,11 @@ h3.class {
 h1.DTN {
 	font-size: 30px;
 	color: green;
+}
+
+#foot {
+	font-size: 30px;
+	color: purple;
 }
 
 a:visited {
