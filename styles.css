@@ -11,3 +11,7 @@ img.magnet {
 	display: block;
 	margin: 0 auto 0 auto;
 }
+
+section {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/76/Ed_g2s_background.jpg");
+}
