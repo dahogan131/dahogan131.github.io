@@ -18,13 +18,13 @@ section {
 }
 
 h3.class {
-    display: block;
+    font-style: italic;
     margin: 0 auto 0 auto;
 	font: verdana;
 }
 
-title.DTN {
-	font: cursive;
+h1.DTN {
+	font-size: 30px;
 	color: green;
 }
 
